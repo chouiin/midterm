@@ -54,8 +54,7 @@ body{
         margin-top: -180px;
         margin-bottom: 1.4cm;
     }
-.myself1{
-        
+.myself1{      
         margin-left: 880px;
         font-size: 14pt;
         font-family: 標楷體;
@@ -241,4 +240,24 @@ body{
         font-family: 標楷體;
         margin-left:990px;
         margin-top:-410px;  
+}
+.activity{
+        margin-left: 230px;
+        font-size: 16pt;
+        font-family: 標楷體;
+        color:#b08968;
+        margin-top: 50px;
+        background-color:#e3d5ca;
+        border-radius: 5%;
+        margin-bottom: 1cm;
+}
+.activity1{
+        margin-left: 860px;
+        font-size: 16pt;
+        font-family: 標楷體;
+        color:#b08968;
+        margin-top: -110px;
+        background-color:#e3d5ca;
+        border-radius: 5%;
+        margin-bottom: 1cm;
 }
