@@ -1,0 +1,263 @@
+body{
+    background-color:#f5ebe0;
+}
+.circle-container {
+    width: 190px; 
+    height: 170px;
+    overflow: hidden;
+    border-radius: 200px;
+    display: flex;
+    margin-left: 620px;
+    margin-top: 60px;
+   
+  }
+  .circle-image { 
+    width: 130%;
+    height: 110%;
+    object-fit: cover;
+    border-radius: 100%;
+    
+  }
+  .txt{
+          font-family: 標楷體;
+          color: #b08968;
+          font-size: 30px;
+          text-align: left;
+          margin-left: 680px;
+  }
+  .txt3{
+        font-family: 標楷體;
+        color: #b08968;
+        font-size: 25px;
+        margin-left:608px;
+        margin-top:-40px;
+}
+  .txt01{
+          font-family: 標楷體;
+          color:#b08968;
+          font-size: 35px;
+          text-align: center;
+  }
+  .txt02{
+          font-family: 標楷體;
+          color: #b08968;
+          font-size: 15px;
+          text-align:center;
+          letter-spacing: 3px;
+}
+.myself{
+        
+        margin-left: 880px;
+        font-size: 20pt;
+        font-family: 標楷體;
+        color:#b08968;
+        margin-top: -180px;
+        margin-bottom: 1.4cm;
+    }
+.myself1{      
+        margin-left: 880px;
+        font-size: 14pt;
+        font-family: 標楷體;
+        color:#b08968;
+        margin-top: -35px;
+        background-color:#e3d5ca;
+        border-radius: 5%;
+        margin-bottom: 1cm;
+    }
+.myname{
+        margin-left: 280px;
+        font-size: 40pt;
+        font-family: 標楷體;
+        color:#b08968;
+        margin-top: -250px;
+        margin-bottom: 2cm;
+}
+.myself2{    
+        margin-left: 280px;
+        font-size: 16pt;
+        font-family: 標楷體;
+        color:#b08968;
+        margin-top: -60px;  
+        margin-bottom: 1cm;
+        
+    }
+.grow {
+        width: 170px; 
+        height: 160px;
+        overflow: hidden;
+        border-radius: 200px;
+        display: flex;
+        margin-left: 650px;
+        margin-top: 30px;
+        margin-bottom: 1cm;
+}
+.grow-image { 
+        width: 130%;
+        height: 110%;
+        object-fit: cover;
+        border-radius: 100%;   
+}
+.grow2 {
+        width: 170px; 
+        height: 150px;
+        overflow: hidden;
+        border-radius: 90px;
+        display: flex;
+        margin-left: 950px;
+        margin-top: -200px;
+        margin-bottom: 1cm;
+}
+.grow3 {
+        width: 170px; 
+        height: 150px;
+        overflow: hidden;
+        border-radius: 80px;
+        display: flex;
+        margin-left: 350px;
+        margin-top: -190px;
+        margin-bottom: 1cm;
+}
+.ability{
+        margin-left: 240px;
+        display: flex;
+        justify-content: center;
+        background-color: #e3d5ca;
+        width: 30%;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        border-radius: 5%;
+        font-size: 20pt;
+        color: white;
+        font-family: 標楷體;
+    }
+.ability2{
+        margin-left: 750px;
+        display: flex;
+        justify-content: center;
+        background-color: #e3d5ca;
+        width: 35%;
+        margin-top: -228px;
+        margin-bottom: 50px;
+        border-radius: 5%;
+        font-size: 20pt;
+        color: white;
+        font-family: 標楷體;
+    }
+.skill{
+        font-size: 25px;
+        font-family: 標楷體;
+}
+.skill2{
+        font-size: 25px;
+        font-family: 標楷體;
+}  
+.colluge {
+        width: 300px; 
+        height: 300px;
+        overflow: hidden;
+        display: flex;
+        margin-left: 300px;
+        margin-top: 50px;
+        margin-bottom: 1cm;
+}
+.colluge1 {
+        width: 300px; 
+        height: 300px;
+        overflow: hidden;
+        display: flex;
+        margin-left: 925px;
+        margin-top: 30px;
+        margin-bottom: 1cm;
+}
+.colluge-image { 
+        width: 400px;
+        height: 400px;
+        object-fit: cover;
+        
+}
+.grtex{
+        font-family: 標楷體;
+        color: #b08968;
+        font-size: 20px;
+        margin-left:620px;
+        margin-top:-10px; 
+}
+.wush{
+        font-family: 標楷體;
+        color: #b08968;
+        font-size: 25px;
+        margin-left:390px;
+        margin-top:25px;  
+}
+.scsh{
+        font-family: 標楷體;
+        color: #b08968;
+        font-size: 25px;
+        margin-left:700px;
+        margin-top:-55px;  
+}
+.collugee{
+        font-family: 標楷體;
+        color: #b08968;
+        font-size: 25px;
+        margin-left:985px;
+        margin-top:-48px;  
+}
+.wuintro{
+        font-family: 標楷體;
+        color: #b08968;
+        font-size: 16px;
+        margin-left:370px;
+        margin-top:25px;  
+}
+.scintro{
+        font-family: 標楷體;
+        color: #b08968;
+        font-size: 16px;
+        margin-left:680px;
+        margin-top:-30px;  
+}
+.cointro{
+        
+        color: #b08968;
+        font-size: 16px;
+        font-family: 標楷體;
+        margin-left:940px;
+        margin-top:-33px;  
+}
+.expname{
+        
+        color: #b08968;
+        font-size: 25px;
+        font-family: 標楷體;
+        margin-left:360px;
+        margin-top:20px;  
+}
+.expname1{
+        
+        color: #b08968;
+        font-size: 25px;
+        font-family: 標楷體;
+        margin-left:990px;
+        margin-top:-410px;  
+}
+.activity{
+        margin-left: 230px;
+        font-size: 16pt;
+        font-family: 標楷體;
+        color:#b08968;
+        margin-top: 50px;
+        background-color:#e3d5ca;
+        border-radius: 5%;
+        margin-bottom: 1cm;
+}
+.activity1{
+        margin-left: 860px;
+        font-size: 16pt;
+        font-family: 標楷體;
+        color:#b08968;
+        margin-top: -110px;
+        background-color:#e3d5ca;
+        border-radius: 5%;
+        margin-bottom: 1cm;
+}
