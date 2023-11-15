@@ -347,14 +347,12 @@ body{
     }
     .myself3{    
         margin-left: 180px;
-        font-size: 16pt;
+        font-size: 20pt;
         font-family: 標楷體;
         color:#b08968;
-        margin-top: -5px;  
+        margin-top: -20px;  
         margin-bottom: 1cm;
-        background-color:#e3d5ca;
-        border-radius: 5%;
-        margin-bottom: 1cm;
+        
         
     }
 .grow {
